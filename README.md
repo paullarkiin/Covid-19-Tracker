@@ -7,7 +7,7 @@ Learning to use the Robinhood spark and ticker libraries alongside GSON and Retr
  -  Data source: https://covidtracking.com/
   
   
-  Libraries used:
+  Libraries:
   - Retrofit: https://github.com/square/retrofit
   - GSON: https://github.com/google/gson
   - Spark from Robinhood: https://github.com/robinhood/spark
