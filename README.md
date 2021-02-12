@@ -1,7 +1,7 @@
 # Covid-19-Tracker
 Android mobile covid-19 tracker 
 
-Learnt to use the Robinhood spark and ticker libraries alongside GSON and Retrofit to represent data pulled from the US COVID-19 tracking project API.
+Learning to use the Robinhood spark and ticker libraries alongside GSON and Retrofit to represent data pulled from the US COVID-19 tracking project API.
   
  -  Reference: https://github.com/rpandey1234
  -  Data source: https://covidtracking.com/
